@@ -1,0 +1,5 @@
+build/.build/
+build/.vagrant/
+build/php-*.tar.bz2
+build/httpd-*.tar.bz2
+.vagrant/
